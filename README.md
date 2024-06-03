@@ -223,11 +223,12 @@ Now the app is fully configured 👍 and you can start using this app using eith
 
 ## Screenshots
 Screenshots of the project.
-![lingo-2](https://github.com/sudh-202/duolingo_clone_v.1/assets/87563365/0ebf1822-9d22-4447-be74-d84d48309428)
-![lingo-3](https://github.com/sudh-202/duolingo_clone_v.1/assets/87563365/df48b67e-0180-41b9-91e6-c40967f7d292)
-![lingo-4](https://github.com/sudh-202/duolingo_clone_v.1/assets/87563365/6a6e4ed9-144e-40ad-8406-ed45df8ff885)
-![lingo-6](https://github.com/sudh-202/duolingo_clone_v.1/assets/87563365/22444509-8970-4bdd-9e8c-46a59c06dda9)
-![lingo-8](https://github.com/sudh-202/duolingo_clone_v.1/assets/87563365/83e87ff2-9126-4210-8700-4401c1601992)
+![pngwing com](https://github.com/sudh-202/duolingo_clone_v.1/assets/87563365/91882fd6-3b6e-4024-9e51-e6715f206b91)
+![react](https://github.com/sudh-202/duolingo_clone_v.1/assets/87563365/c7bc2961-720c-41d1-a279-f56963fb1247)
+![vercel](https://github.com/sudh-202/duolingo_clone_v.1/assets/87563365/d45c04e4-8462-40cb-8de2-9790f2987fba)
+![tailwindcss](https://github.com/sudh-202/duolingo_clone_v.1/assets/87563365/dc3e0673-6c28-45c6-8cd0-d18a6bc2f14e)
+![postgresql](https://github.com/sudh-202/duolingo_clone_v.1/assets/87563365/ae3207f7-2fbf-447e-89c3-cfe546d1127e)
+
 
 
 
