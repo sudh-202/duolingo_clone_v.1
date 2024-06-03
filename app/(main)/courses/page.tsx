@@ -1,5 +1,5 @@
 import { getCourses, getUserProgress } from '@/db/queries'
-import { courses } from '@/db/schema';
+// import { courses } from '@/db/schema';
 import { List } from './list';
 
 
